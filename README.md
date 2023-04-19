@@ -18,4 +18,4 @@ firebase_auth:For firebase authentication
 
 font_awesome_flutter:for facebook &google icon
 Demo
-Insert gif or link to demo
+[Insert gif or link to demo](https://drive.google.com/file/d/1BBSQhLGXM385eqsuHsyD34wfPx50dwjS/view)
