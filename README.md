@@ -1,16 +1,21 @@
-# assignment
+Flutter app Assignment
+an app created for assessment
 
-A new Flutter project.
+#Features
 
-## Getting Started
+Three main screen
 
-This project is a starting point for a Flutter application.
+SignUp
 
-A few resources to get you started if this is your first Flutter project:
+Login
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Home
+Paskages used:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+http:for api integration
+
+firebase_auth:For firebase authentication
+
+font_awesome_flutter:for facebook &google icon
+Demo
+Insert gif or link to demo
